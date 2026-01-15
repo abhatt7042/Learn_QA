@@ -13,12 +13,3 @@ I’m learning by **practicing, iterating, and organizing knowledge** as I explo
 - **Explore QA tools and automation frameworks** (Jenkins, LoadRunner, Dynatrace, etc.)
 
 ---
-
-## 📂 Folder Structure
-
-- **test_strategies/** – Test strategy documents for different QA domains  
-- **templates/** – Reusable templates (test cases, bug reports, test plans)  
-- **best_practices/** – Tips, notes, and QA guidelines  
-- **tools/** – Notes for QA tools  
-
----
