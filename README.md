@@ -22,3 +22,7 @@ I’m learning by **practicing, iterating, and organizing knowledge** as I explo
 - **Explore QA tools and automation frameworks** (Jenkins, LoadRunner, Dynatrace, etc.)
 
 ---
+## 📫 Connect With Me
+
+I’m always happy to connect and share ideas!  
+- [LinkedIn](https://www.linkedin.com/in/ankitabhatt/)
