@@ -1,6 +1,6 @@
 # 🧪 QA Learning Journey
 
-This folder captures my **hands-on QA journey** — from creating **test strategies and templates** to documenting **best practices** and exploring **tools**.  
+This folder captures my **hands-on QA journey** - from creating **test strategies and templates** to documenting **best practices** and exploring **tools**.  
 I’m learning by **practicing, iterating, and organizing knowledge** as I explore **manual, automated, and performance testing**.
 
 ---
