@@ -6,8 +6,6 @@ This folder captures my **hands-on QA journey** - from creating **test strategie
 I’m learning by **practicing, iterating, and organizing knowledge** as I explore **manual, automated, and performance testing**.
 
 ## 🌟 What You’ll Find Here
-
-## QA Templates
 - **Test Strategy Templates** – Planning QA and performance tests  
 - **NFR Templates** – Documenting Non-Functional Requirements  
 - **Defect Triage Templates** – Prioritize and manage defects efficiently  
