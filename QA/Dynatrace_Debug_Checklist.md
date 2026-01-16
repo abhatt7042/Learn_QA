@@ -83,5 +83,4 @@ A practical checklist to debug **performance bottlenecks** using **Dynatrace**. 
 
 ---
 
-**Tip:** Always combine Dynatrace metrics with **logs, system monitoring, and baseline comparisons** to accurately identify bottlenecks.
-
+**Tip:** Always combine Dynatrace metrics with **logs, system monitoring, and baseline comparisons** to accurately identify bottlenecks.            
