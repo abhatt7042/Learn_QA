@@ -77,7 +77,7 @@ This document outlines the process and details for **triaging defects** reported
 ## 7. Tools / References
 
 - **Defect Tracking Tool:** Jira / ALM / qTest  
-- **Project Documentation:** [Link to requirements/specs]  
+- **Project Documentation:** <Link to requirements/specs>  
 - **Environment Details:** QA / Staging / Production  
 
 ---
@@ -90,4 +90,4 @@ This document outlines the process and details for **triaging defects** reported
 
 ---
 
-> **Tip:** Keep this document **updated and accessible** to all team members to ensure transparency and efficient defect resolution.
+> **Note:** Keep this document **updated and accessible** to all team members to ensure transparency and efficient defect resolution.
