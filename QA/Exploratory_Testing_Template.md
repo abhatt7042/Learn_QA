@@ -28,5 +28,5 @@ Anything unclear that needs discussion with dev or product.
 
 ---
 
-## Overall Feeling
+## Overall Summary
 Does this feature feel ready for users? Why or why not?
