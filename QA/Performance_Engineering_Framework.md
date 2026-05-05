@@ -141,9 +141,5 @@ This framework enables:
 - Clear visibility into system limits under real trading conditions
 - Strong alignment between QA, engineering, and SRE teams
 - Transition from reactive testing to proactive performance engineering governance
-
 ---
 
-
-LinkedIn: https://www.linkedin.com/in/ankitabhatt  
-Blog: https://ankiiwrites.blogspot.com
