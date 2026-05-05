@@ -144,11 +144,6 @@ This framework enables:
 
 ---
 
-## Author
-
-**Ankita Bhatt**  
-Performance Test & Engineering Lead  
-Trading Systems | Observability | Cloud Performance | Performance Governance  
 
 LinkedIn: https://www.linkedin.com/in/ankitabhatt  
 Blog: https://ankiiwrites.blogspot.com
